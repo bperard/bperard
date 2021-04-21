@@ -1,7 +1,7 @@
-<div align="center" vw="100%">
-  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt" />
+<div align="center" width="100%">
+  <img width="43%" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bperard&layout=compact" />
+  <img width="43%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bperard&layout=compact" />
 </a>
   </div>
 
