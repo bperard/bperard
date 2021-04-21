@@ -1,9 +1,9 @@
+<div>
+  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt" />
+  <img height="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bperard&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bperard&layout=compact" />
-</a>
+  </div>
 
 <!--
 **bperard/bperard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
