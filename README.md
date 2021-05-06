@@ -1,5 +1,5 @@
 
-<img src="welcome-banner.png"></img>
+<img src="welcomepdx.png"></img>
 <div align="center">
 <h3>I'm a lifelong tech enthusiast who finally decided to transition my hobby into a career as a software engineer.</h3>
 <strong>Currently Reside in:</strong> Portland, OR<br />
