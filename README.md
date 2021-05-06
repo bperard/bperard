@@ -1,14 +1,13 @@
 <div align="center">
 <h1>I enjoy taking a complex problem and creating a simple solution</h1>
 <h3>Welcome to my page. I'm a lifelong tech enthusiast who finally decided to transition my hobby into a career as a software engineer.</h3>
-  <ul>
-  <li><strong>Currently Reside in:</strong> Portland, OR</li>
-  <li><strong>Hobbies:</strong> Games (board, video, & playground), karaoke, and anything that makes people smile</li>
+<strong>Currently Reside in:</strong> Portland, OR
+<strong>Hobbies:</strong> Games (board, video, & playground), karaoke, and anything that makes people smile
 </ul>
   </div>
 <ul>
   <h2>Strengths Assessment Results</h2>
-  <h3>AKA What I'll Add to Your Team</h3>
+  <h4>AKA What I'll Add to Your Team</h4>
   <li><strong>Futuristic:</strong> I'm excited by what could be, and enjoy sharing my vision.</li>
   <li><strong>Strategic:</strong> I like to find the relevant patterns in the data in order to decide how to proceed.</li>
   <li><strong>Analytical:</strong> I gain understanding of a situation by thinking about the factors and their impact.</li>
