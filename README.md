@@ -1,5 +1,5 @@
 <div align="center">
-<h1 styel="color: red">Welcome to my page</h1>
+<h1 styel="color: red;">Welcome to my page</h1>
 <h3 color="blue">I'm a lifelong tech enthusiast who finally decided to transition my hobby into a career as a software engineer.</h3>
 <strong>Currently Reside in:</strong> Portland, OR<br />
 <strong>Hobbies:</strong> Games (board, video, & playground), karaoke, and anything that makes people smile
