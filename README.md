@@ -12,7 +12,8 @@
   <li><strong>Strategic:</strong> I like to find the relevant patterns in the data in order to decide how to proceed.</li>
   <li><strong>Analytical:</strong> I gain understanding of a situation by thinking about the factors and their impact.</li>
   <li><strong>Ideation:</strong> I enjoy building on ideas and finding connections that may have been missed.</li>
-  <li><strong>Individualization:</strong> I enjoy the people I work with, and always aim to make a better space for collaboration.</li>
+  <li><strong>Individualization:</strong> I enjoy the people I work with, and always aim to facilitate a better space for collaboration.</li>
+  <li><strong>Cool Hair/Outfits:</strong> I'll add flair to any team activity we take on.</li>
 </ul>
 <div align="center">
 <h2>Current Tech Stack</h2>
