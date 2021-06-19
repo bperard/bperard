@@ -5,6 +5,7 @@
   <strong>Currently Reside in:</strong> Portland, OR<br />
   <strong>Hobbies:</strong> Games (board, video, & playground), karaoke, and anything that makes people smile
 </div>
+
 <div aria-label="developer-style-div">
   <p>When I'm developing an idea, I like to design features that are non-specific to their application. Modular thinking & code allows you to create systems that can grow organically as you learn more, innovation strikes, and/or necessity comes into play. Collaboration is one of my favorite ways to learn while developing, and to improve my ability to create & communicate new ideas; working toward creating a shared idea is exciting & inspiring. I want my developing to be a part of creating joy for the people and communities I love.<p>
 </div>
