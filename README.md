@@ -7,7 +7,7 @@
 </div>
 <br />
 <div aria-label="developer-style-div">
-  <p>   When I'm developing an idea, I like to design features that are non-specific to their application. Modular thinking & code allows you to create systems that can grow organically as you learn more, innovation strikes, and/or necessity comes into play. Collaboration is one of my favorite ways to learn while developing, and to improve my ability to create & communicate new ideas; working toward creating a shared idea is exciting & inspiring. I want my developing to be a part of creating joy for the people and communities I love.<p>
+  <p style="margin-left: 40px">When I'm developing an idea, I like to design features that are non-specific to their application. Modular thinking & code allows you to create systems that can grow organically as you learn more, innovation strikes, and/or necessity comes into play. Collaboration is one of my favorite ways to learn while developing, and to improve my ability to create & communicate new ideas; working toward creating a shared idea is exciting & inspiring. I want my developing to be a part of creating joy for the people and communities I love.<p>
 </div>
 <ul aria-labelledby="assessment-results-list">
   <h2 id="assessment-results-list">Strengths Assessment Results</h2>
