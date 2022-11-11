@@ -1,13 +1,15 @@
 
 <img src="welcomepdx.png"></img>
-<div align="center" aria-label="introduction-div">
-  <h3>I'm a lifelong tech enthusiast who finally decided to transition my hobby into a career as a software engineer.</h3>
-  <strong>Currently Reside in:</strong> Portland, OR<br />
-  <strong>Hobbies:</strong> Games (board, video, & playground), karaoke, and anything that makes people smile
+<div align="left" aria-label="introduction-headline-div">
+  <h3>I'm a lifelong tech enthusiast who finally decided to transition my hobby into a career as a software engineer.</h3> 
+</div>
+<div align="center" aria-label="introduction-description-div">
+  <p>As a developer, my goal is to turn complex & ambiguous problems into straightforward solutions. I enjoy the challenge of constantly learning and creating.</p>
 </div>
 <br />
-<div aria-label="developer-style-div">
-  <p>As a developer, my goal is to turn complex & ambiguous problems into straightforward solutions. I enjoy the challenge of constantly learning and creating.</p>
+<div align="right" aria-label="location-and-hobbies-div">
+  <strong>Currently Reside in:</strong> Portland, OR<br />
+  <strong>Hobbies:</strong> Games (board, video, & playground), karaoke, and anything that makes people smile
 </div>
 <ul aria-labelledby="assessment-results-list">
   <h2 id="assessment-results-list">Strengths Assessment Results</h2>
