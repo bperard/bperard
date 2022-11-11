@@ -1,10 +1,8 @@
 
 <img src="welcomepdx.png"></img>
-<div align="left" aria-label="introduction-headline-div">
-  <h3>I'm a lifelong tech enthusiast who finally decided to transition my hobby into a career as a software engineer.</h3> 
-</div>
-<div align="center" aria-label="introduction-description-div">
-  <p>As a developer, my goal is to turn complex & ambiguous problems into straightforward solutions. I enjoy the challenge of constantly learning and creating.</p>
+<div aria-label="introduction-div">
+  <h3 align="center">I'm a lifelong tech enthusiast who finally decided to transition my hobby into a career as a software engineer.</h3> 
+  <p align="left">As a developer, my goal is to turn complex & ambiguous problems into straightforward solutions. I enjoy the challenge of constantly learning and creating.</p>
 </div>
 <br />
 <div align="right" aria-label="location-and-hobbies-div">
