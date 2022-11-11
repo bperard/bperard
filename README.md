@@ -7,15 +7,13 @@
 </div>
 <br />
 <div aria-label="developer-style-div">
-  <p>I am driven by the challenge of deconstructing a problem and building an answer out of that understanding. My goal is to develop readable solutions that make logic and progression of operation clear; to me, this is elegant coding. Elegant coding makes it easier for your work to be read and updated by others, allowing code to grow with innovation and be properly maintained.</p>
-  <p>Collaboration is one of my favorite ways to learn while developing, and to improve my ability to create & communicate new ideas. Working toward creating a shared idea is exciting & inspiring. I want my developing to be a part of creating joy for the people and communities I love.</p>
+  <p>As a developer, my goal is to turn complex & ambiguous problems into straightforward solutions. I enjoy the challenge of constantly learning and creating.</p>
 </div>
 <ul aria-labelledby="assessment-results-list">
   <h2 id="assessment-results-list">Strengths Assessment Results</h2>
   <h4>AKA What I'll Add to Your Team</h4>
   <li><strong>Futuristic:</strong> I'm excited by what could be, and enjoy sharing my vision.</li>
   <li><strong>Strategic:</strong> I like to find the relevant patterns in the data in order to decide how to proceed.</li>
-  <li><strong>Analytical:</strong> I gain understanding of a situation by thinking about the factors and their impact.</li>
   <li><strong>Ideation:</strong> I enjoy building on ideas and finding connections that may have been missed.</li>
   <li><strong>Individualization:</strong> I enjoy the people I work with, and always aim to facilitate a better space for collaboration.</li>
   <li><strong>Cool Hair/Outfits:</strong> I'll add flair to any team activity we take on.</li>
